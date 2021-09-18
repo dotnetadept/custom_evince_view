@@ -1,0 +1,12 @@
+prefix=/usr/local
+libdir=${prefix}/lib/x86_64-linux-gnu
+includedir=${prefix}/include
+
+exec_prefix=${prefix}
+
+Name: Evince View
+Description: GNOME document viewer view library
+Version: 3.36.10
+Requires: evince-document-3.0 =  3.36.10, gthread-2.0 >=  2.38.0
+Libs: -L${libdir} -levview3
+Cflags: -I${includedir}/evince/3.0

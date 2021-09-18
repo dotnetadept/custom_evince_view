@@ -1,0 +1,2 @@
+/home/vladimir/Downloads/evince-3.36.10(1)/evince-3.36.10/build/meson-private/cmake_libsecret-1/CMakeFiles/rebuild_cache.dir
+/home/vladimir/Downloads/evince-3.36.10(1)/evince-3.36.10/build/meson-private/cmake_libsecret-1/CMakeFiles/edit_cache.dir
