@@ -1,7 +1,8 @@
-Custom evince view with:
-  zoom gestures disabled
-  drag and drop gestures disabled
-  text selection disabled
+Custom evince view with disabled:
+
+  zoom,
+  drag and drop,
+  text selection
   
   
 run:
