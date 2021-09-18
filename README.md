@@ -5,5 +5,7 @@ Custom evince view with:
   
   
 run:
+
 meson build --buildtype=release
+
 ninja
